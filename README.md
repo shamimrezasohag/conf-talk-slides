@@ -1,6 +1,6 @@
 # Conference Talk Slides 
 
-Welcome to the **conf-talk-slides** repository, where you'll find the slides and materials from my conference talks.
+Welcome to the conf-talk-slides repository, where you can find the slides and materials from my conference talks.
 
 
 ## Contents of This Repository
@@ -11,7 +11,7 @@ Welcome to the **conf-talk-slides** repository, where you'll find the slides and
 
 ## How to Use
 
-Feel free to download or browse the slides and materials. If you have any questions or would like to collaborate on DNS security projects, don't hesitate to let me know.
+You can download or browse the slides and materials if you like. Please let me know if you have any questions or would like to collaborate.
 
 ### Connect with Me
 - **LinkedIn**: [@asmshamimreza](https://linkedin.com/in/asmshamimreza)
